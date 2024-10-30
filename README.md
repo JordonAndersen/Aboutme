@@ -15,7 +15,7 @@ I enjoy building interactive applications and games. I am also experienced in sy
 
 **Let's Connect**
 
-**Email:** jandersendev@gmail.com
-**Linkedin:** www.linkedin.com/in/jordon-andersen-b52528145
+ * **Email:** jandersendev@gmail.com
+* **Linkedin:** www.linkedin.com/in/jordon-andersen-b52528145
 
 **Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.**
